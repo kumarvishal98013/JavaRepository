@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EmployeePortal
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Vishal.Kumar
+Implementation-Vendor-Id: com.springboot.employeeportal
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/portal
+Created-By: Maven Integration for Eclipse
+
